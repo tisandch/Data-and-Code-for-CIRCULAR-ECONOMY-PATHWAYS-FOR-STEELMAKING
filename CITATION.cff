@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use these data or code, please cite them as below."
+title: "Data and code for: Circular economy pathways for steelmaking: resource footprints, fossil dependence, and value creation across metallurgical cycles"
+type: dataset
+version: 1.0.0
+date-released: 2026-11-23
+authors:
+  - family-names: Salashenko
+    given-names: Tetiana
+    orcid: "https://orcid.org/0000-0002-1822-5836"
+    affiliation: "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+  - family-names: Khaustova
+    given-names: Viktoriia
+    orcid: "https://orcid.org/0000-0002-5895-9287"
+    affiliation: "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+  - family-names: Kyzym
+    given-names: Mykola
+    orcid: "https://orcid.org/0000-0001-8948-2656"
+    affiliation: "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+  - family-names: Ilyash
+    given-names: Olha
+    orcid: "https://orcid.org/0000-0002-7882-3942"
+    affiliation: "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+  - family-names: Kotliarov
+    given-names: Yevhen
+    orcid: "https://orcid.org/0000-0002-6366-6729"
+    affiliation: "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+  - family-names: Shulga
+    given-names: Igor
+    orcid: "https://orcid.org/0000-0001-9389-2690"
+    affiliation: "Ukrainian State Research Institute for Carbochemistry"
+repository-code: "https://github.com/tisandch/Data-and-Code-for-CIRCULAR-ECONOMY-PATHWAYS-FOR-STEELMAKING"
+abstract: >-
+  Data and code accompanying the article "Circular economy pathways for
+  steelmaking: resource footprints, fossil dependence, and value creation
+  across metallurgical cycles" (Salashenko, Khaustova, Kyzym, Ilyash,
+  Kotliarov, Shulga; submitted to Environmental Economics). The archive
+  contains a domestic input-output base for Ukraine, India, the United
+  States and Saudi Arabia (2015, 2019, 2021, 2022) aggregated from the OECD
+  Inter-Country Input-Output tables (2025 edition) to 13 industries, a
+  Jupyter notebook that computes all indicators of the study (input and
+  output footprints, direct GVA shares, output and GVA multipliers,
+  internal stability, external dependence and the classification of
+  economic configurations), and the resulting tables and figures.
+keywords:
+  - circular economy
+  - iron and steel industry
+  - input-output analysis
+  - OECD ICIO
+  - gross value added multiplier
+  - R-principles
+  - Ukraine
+license:
+  - CC-BY-4.0
+  - MIT
