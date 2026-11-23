@@ -1,0 +1,51 @@
+{
+  "title": "Data and code for: Circular economy pathways for steelmaking: resource footprints, fossil dependence, and value creation across metallurgical cycles",
+  "upload_type": "dataset",
+  "description": "<p>Data and code accompanying the article \"Circular economy pathways for steelmaking: resource footprints, fossil dependence, and value creation across metallurgical cycles\" by Tetiana Salashenko, Viktoriia Khaustova, Mykola Kyzym, Olha Ilyash, Yevhen Kotliarov and Igor Shulga (submitted to Environmental Economics, 2026).</p><p>The archive contains a domestic input-output base for Ukraine, India, the United States and Saudi Arabia (2015, 2019, 2021, 2022) aggregated from the OECD Inter-Country Input-Output tables (2025 edition) to 13 industries, a Jupyter notebook and an equivalent Python script that compute all indicators of the study, and the resulting tables (A1-B2) and figures (2-7).</p>",
+  "creators": [
+    {
+      "name": "Salashenko, Tetiana",
+      "orcid": "0000-0002-1822-5836",
+      "affiliation": "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+    },
+    {
+      "name": "Khaustova, Viktoriia",
+      "orcid": "0000-0002-5895-9287",
+      "affiliation": "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+    },
+    {
+      "name": "Kyzym, Mykola",
+      "orcid": "0000-0001-8948-2656",
+      "affiliation": "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+    },
+    {
+      "name": "Ilyash, Olha",
+      "orcid": "0000-0002-7882-3942",
+      "affiliation": "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+    },
+    {
+      "name": "Kotliarov, Yevhen",
+      "orcid": "0000-0002-6366-6729",
+      "affiliation": "Research Centre for Industrial Problems of Development of the National Academy of Sciences of Ukraine"
+    },
+    {
+      "name": "Shulga, Igor",
+      "orcid": "0000-0001-9389-2690",
+      "affiliation": "Ukrainian State Research Institute for Carbochemistry"
+    }
+  ],
+  "keywords": [
+    "circular economy",
+    "iron and steel industry",
+    "input-output analysis",
+    "OECD ICIO",
+    "gross value added multiplier",
+    "R-principles",
+    "Ukraine"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "version": "1.0.0",
+  "notes": "Data and results are licensed under CC BY 4.0; code is licensed under the MIT License. Funded by the state budget allocated by the Ministry of Education and Science of Ukraine to state research institutions based on the results of state attestation, research project No. 0124U005146."
+}
