@@ -1,96 +1,96 @@
 ﻿country,country_name,year,sector,sector_name,oecd_icio_code,scope,gross_output,status,leontief_diagonal
 UKR,Ukraine,2015,COAL,Coal mining,B05,full_available,2368.8415,observed,1.181591106522215
-UKR,Ukraine,2015,OILGAS,Oil and gas extraction,B06,full_available,3450.3175,observed,1.024955609241151
-UKR,Ukraine,2015,ORES,Metal ore mining,B07,full_available,1860.2055,observed,1.001024292975287
+UKR,Ukraine,2015,OILGAS,Oil and gas extraction,B06,full_available,3450.3175,observed,1.0249556092411507
+UKR,Ukraine,2015,ORES,Metal ore mining,B07,full_available,1860.2055,observed,1.0010242929752868
 UKR,Ukraine,2015,COKE,Coke and refined petroleum products,C19,full_available,3135.8152,observed,1.022051906470772
 UKR,Ukraine,2015,METAL,Basic iron and steel,C24A,full_available,12594.8067,observed,1.3411022689911103
 UKR,Ukraine,2015,FABMET,Fabricated metal products,C25,full_available,1803.4222,observed,1.0574425300221728
-UKR,Ukraine,2019,COAL,Coal mining,B05,full_available,4341.7583,observed,1.1559746082416482
-UKR,Ukraine,2019,OILGAS,Oil and gas extraction,B06,full_available,5869.1784,observed,1.0479229542444084
-UKR,Ukraine,2019,ORES,Metal ore mining,B07,full_available,3262.8392,observed,1.001521143689467
+UKR,Ukraine,2019,COAL,Coal mining,B05,full_available,4341.7583,observed,1.155974608241648
+UKR,Ukraine,2019,OILGAS,Oil and gas extraction,B06,full_available,5869.1784,observed,1.0479229542444086
+UKR,Ukraine,2019,ORES,Metal ore mining,B07,full_available,3262.8392,observed,1.0015211436894673
 UKR,Ukraine,2019,COKE,Coke and refined petroleum products,C19,full_available,4570.4837,observed,1.0257052665088275
 UKR,Ukraine,2019,METAL,Basic iron and steel,C24A,full_available,17119.2583,observed,1.3573755709828608
 UKR,Ukraine,2019,FABMET,Fabricated metal products,C25,full_available,3887.3278,observed,1.0770238133883971
 UKR,Ukraine,2021,COAL,Coal mining,B05,full_available,5679.6757,observed,1.292758119198269
-UKR,Ukraine,2021,OILGAS,Oil and gas extraction,B06,full_available,7677.772,observed,1.1282219551252104
-UKR,Ukraine,2021,ORES,Metal ore mining,B07,full_available,4534.4274,observed,1.0051378477531319
-UKR,Ukraine,2021,COKE,Coke and refined petroleum products,C19,full_available,4873.9699,observed,1.0264189070393923
-UKR,Ukraine,2021,METAL,Basic iron and steel,C24A,full_available,18838.221,observed,1.612202360204958
+UKR,Ukraine,2021,OILGAS,Oil and gas extraction,B06,full_available,7677.772,observed,1.1282219551252106
+UKR,Ukraine,2021,ORES,Metal ore mining,B07,full_available,4534.4274,observed,1.005137847753132
+UKR,Ukraine,2021,COKE,Coke and refined petroleum products,C19,full_available,4873.9699,observed,1.026418907039392
+UKR,Ukraine,2021,METAL,Basic iron and steel,C24A,full_available,18838.221,observed,1.6122023602049582
 UKR,Ukraine,2021,FABMET,Fabricated metal products,C25,full_available,4611.9461,observed,1.1277882853412562
 UKR,Ukraine,2022,COAL,Coal mining,B05,full_available,4748.7584,observed,1.3606542406893494
 UKR,Ukraine,2022,OILGAS,Oil and gas extraction,B06,full_available,6419.3602,observed,1.1401595587284112
-UKR,Ukraine,2022,ORES,Metal ore mining,B07,full_available,3314.1157,observed,1.009812973809196
+UKR,Ukraine,2022,ORES,Metal ore mining,B07,full_available,3314.1157,observed,1.0098129738091963
 UKR,Ukraine,2022,COKE,Coke and refined petroleum products,C19,full_available,2962.102,observed,1.021467831100653
-UKR,Ukraine,2022,METAL,Basic iron and steel,C24A,full_available,11448.7234,observed,1.521034115052724
+UKR,Ukraine,2022,METAL,Basic iron and steel,C24A,full_available,11448.7234,observed,1.5210341150527238
 UKR,Ukraine,2022,FABMET,Fabricated metal products,C25,full_available,2802.86,observed,1.0845726710488632
-IND,India,2015,COAL,Coal mining,B05,full_available,17385.6174,observed,1.00299155862512
-IND,India,2015,OILGAS,Oil and gas extraction,B06,full_available,30779.1073,observed,1.0061173756944222
+IND,India,2015,COAL,Coal mining,B05,full_available,17385.6174,observed,1.0029915586251201
+IND,India,2015,OILGAS,Oil and gas extraction,B06,full_available,30779.1073,observed,1.006117375694422
 IND,India,2015,ORES,Metal ore mining,B07,full_available,12914.3911,observed,1.0143697804023568
 IND,India,2015,COKE,Coke and refined petroleum products,C19,full_available,142246.8357,observed,1.031334378827778
-IND,India,2015,METAL,Basic iron and steel,C24A,full_available,103940.9856,observed,1.1758406046344791
-IND,India,2015,FABMET,Fabricated metal products,C25,full_available,44800.1622,observed,1.0490277106932393
+IND,India,2015,METAL,Basic iron and steel,C24A,full_available,103940.9856,observed,1.175840604634479
+IND,India,2015,FABMET,Fabricated metal products,C25,full_available,44800.1622,observed,1.0490277106932395
 IND,India,2019,COAL,Coal mining,B05,full_available,19537.6213,observed,1.0022267293463116
 IND,India,2019,OILGAS,Oil and gas extraction,B06,full_available,20535.6463,observed,1.007919089578363
 IND,India,2019,ORES,Metal ore mining,B07,full_available,19012.5964,observed,1.0205569384831519
-IND,India,2019,COKE,Coke and refined petroleum products,C19,full_available,179796.4127,observed,1.0412518698874966
-IND,India,2019,METAL,Basic iron and steel,C24A,full_available,171504.0972,observed,1.4029130080544616
-IND,India,2019,FABMET,Fabricated metal products,C25,full_available,53266.9395,observed,1.1126971736337652
-IND,India,2021,COAL,Coal mining,B05,full_available,19185.3734,observed,1.036074152161583
+IND,India,2019,COKE,Coke and refined petroleum products,C19,full_available,179796.4127,observed,1.0412518698874969
+IND,India,2019,METAL,Basic iron and steel,C24A,full_available,171504.0972,observed,1.4029130080544623
+IND,India,2019,FABMET,Fabricated metal products,C25,full_available,53266.9395,observed,1.1126971736337654
+IND,India,2021,COAL,Coal mining,B05,full_available,19185.3734,observed,1.0360741521615828
 IND,India,2021,OILGAS,Oil and gas extraction,B06,full_available,21480.1463,observed,1.0051731315651071
 IND,India,2021,ORES,Metal ore mining,B07,full_available,27858.68,observed,1.087000660962658
 IND,India,2021,COKE,Coke and refined petroleum products,C19,full_available,204455.1896,observed,1.081965240301321
-IND,India,2021,METAL,Basic iron and steel,C24A,full_available,222132.9521,observed,1.5364563508383897
+IND,India,2021,METAL,Basic iron and steel,C24A,full_available,222132.9521,observed,1.5364563508383895
 IND,India,2021,FABMET,Fabricated metal products,C25,full_available,59673.3237,observed,1.072866554495742
-IND,India,2022,COAL,Coal mining,B05,full_available,21235.5476,observed,1.0371100836798244
-IND,India,2022,OILGAS,Oil and gas extraction,B06,full_available,23775.543,observed,1.0055497819091639
+IND,India,2022,COAL,Coal mining,B05,full_available,21235.5476,observed,1.0371100836798246
+IND,India,2022,OILGAS,Oil and gas extraction,B06,full_available,23775.543,observed,1.0055497819091637
 IND,India,2022,ORES,Metal ore mining,B07,full_available,30835.6952,observed,1.0805706564204842
-IND,India,2022,COKE,Coke and refined petroleum products,C19,full_available,226303.5405,observed,1.0558099053352075
-IND,India,2022,METAL,Basic iron and steel,C24A,full_available,245870.3719,observed,1.5766336024543277
-IND,India,2022,FABMET,Fabricated metal products,C25,full_available,66050.0937,observed,1.070658185589504
+IND,India,2022,COKE,Coke and refined petroleum products,C19,full_available,226303.5405,observed,1.0558099053352077
+IND,India,2022,METAL,Basic iron and steel,C24A,full_available,245870.3719,observed,1.5766336024543284
+IND,India,2022,FABMET,Fabricated metal products,C25,full_available,66050.0937,observed,1.0706581855895045
 USA,United States,2015,COAL,Coal mining,B05,full_available,38958.5567,observed,1.0577261308211106
-USA,United States,2015,OILGAS,Oil and gas extraction,B06,full_available,261655.3464,observed,1.074028680562201
+USA,United States,2015,OILGAS,Oil and gas extraction,B06,full_available,261655.3464,observed,1.0740286805622012
 USA,United States,2015,ORES,Metal ore mining,B07,full_available,25303.8799,observed,1.0712041575315627
 USA,United States,2015,COKE,Coke and refined petroleum products,C19,full_available,479451.9203,observed,1.0295910057784872
-USA,United States,2015,METAL,Basic iron and steel,C24A,full_available,123212.5288,observed,1.1582117844466064
-USA,United States,2015,FABMET,Fabricated metal products,C25,full_available,371785.7211,observed,1.0897919888390937
+USA,United States,2015,METAL,Basic iron and steel,C24A,full_available,123212.5288,observed,1.1582117844466062
+USA,United States,2015,FABMET,Fabricated metal products,C25,full_available,371785.7211,observed,1.089791988839094
 USA,United States,2019,COAL,Coal mining,B05,full_available,34441.0277,observed,1.0354308026772623
 USA,United States,2019,OILGAS,Oil and gas extraction,B06,full_available,365299.313,observed,1.0791011224685607
-USA,United States,2019,ORES,Metal ore mining,B07,full_available,26783.943,observed,1.0567939765126237
-USA,United States,2019,COKE,Coke and refined petroleum products,C19,full_available,572337.2911,observed,1.030979496489031
+USA,United States,2019,ORES,Metal ore mining,B07,full_available,26783.943,observed,1.0567939765126235
+USA,United States,2019,COKE,Coke and refined petroleum products,C19,full_available,572337.2911,observed,1.0309794964890313
 USA,United States,2019,METAL,Basic iron and steel,C24A,full_available,133805.0844,observed,1.1568877930407224
-USA,United States,2019,FABMET,Fabricated metal products,C25,full_available,403890.536,observed,1.0904024526950478
+USA,United States,2019,FABMET,Fabricated metal products,C25,full_available,403890.536,observed,1.090402452695048
 USA,United States,2021,COAL,Coal mining,B05,full_available,29363.7877,observed,1.0224840594748634
 USA,United States,2021,OILGAS,Oil and gas extraction,B06,full_available,475550.7955,observed,1.124638305256727
 USA,United States,2021,ORES,Metal ore mining,B07,full_available,31808.5981,observed,1.1209870956136856
-USA,United States,2021,COKE,Coke and refined petroleum products,C19,full_available,582764.3791,observed,1.0314457888971424
-USA,United States,2021,METAL,Basic iron and steel,C24A,full_available,169429.5846,observed,1.1756985531397652
-USA,United States,2021,FABMET,Fabricated metal products,C25,full_available,417633.6029,observed,1.0798054525725829
+USA,United States,2021,COKE,Coke and refined petroleum products,C19,full_available,582764.3791,observed,1.0314457888971422
+USA,United States,2021,METAL,Basic iron and steel,C24A,full_available,169429.5846,observed,1.1756985531397655
+USA,United States,2021,FABMET,Fabricated metal products,C25,full_available,417633.6029,observed,1.079805452572583
 USA,United States,2022,COAL,Coal mining,B05,full_available,40501.4945,observed,1.0109811225834962
 USA,United States,2022,OILGAS,Oil and gas extraction,B06,full_available,714042.1196,observed,1.0692525434326992
 USA,United States,2022,ORES,Metal ore mining,B07,full_available,34467.8286,observed,1.0240884551779088
-USA,United States,2022,COKE,Coke and refined petroleum products,C19,full_available,881098.5687,observed,1.072967105136587
-USA,United States,2022,METAL,Basic iron and steel,C24A,full_available,198465.5099,observed,1.1970183282961757
+USA,United States,2022,COKE,Coke and refined petroleum products,C19,full_available,881098.5687,observed,1.0729671051365872
+USA,United States,2022,METAL,Basic iron and steel,C24A,full_available,198465.5099,observed,1.1970183282961755
 USA,United States,2022,FABMET,Fabricated metal products,C25,full_available,453544.3041,observed,1.11763167015345
 SAU,Saudi Arabia,2015,COAL,Coal mining,B05,full_available,0.0,zero_output,
 SAU,Saudi Arabia,2015,OILGAS,Oil and gas extraction,B06,full_available,157513.6936,observed,1.007758236411091
 SAU,Saudi Arabia,2015,ORES,Metal ore mining,B07,full_available,946.1505,observed,1.0170420101899438
 SAU,Saudi Arabia,2015,COKE,Coke and refined petroleum products,C19,full_available,31103.0303,observed,1.0436080314140999
-SAU,Saudi Arabia,2015,METAL,Basic iron and steel,C24A,full_available,3528.9964,observed,1.098000363241732
+SAU,Saudi Arabia,2015,METAL,Basic iron and steel,C24A,full_available,3528.9964,observed,1.0980003632417321
 SAU,Saudi Arabia,2015,FABMET,Fabricated metal products,C25,full_available,6540.0023,observed,1.0086812875249933
 SAU,Saudi Arabia,2019,COAL,Coal mining,B05,full_available,0.0,zero_output,
 SAU,Saudi Arabia,2019,OILGAS,Oil and gas extraction,B06,full_available,231423.5657,observed,1.018933330763442
 SAU,Saudi Arabia,2019,ORES,Metal ore mining,B07,full_available,1262.2343,observed,1.0009497109529402
-SAU,Saudi Arabia,2019,COKE,Coke and refined petroleum products,C19,full_available,74920.9715,observed,1.0781944250944233
-SAU,Saudi Arabia,2019,METAL,Basic iron and steel,C24A,full_available,4718.3954,observed,1.006879030424116
+SAU,Saudi Arabia,2019,COKE,Coke and refined petroleum products,C19,full_available,74920.9715,observed,1.078194425094423
+SAU,Saudi Arabia,2019,METAL,Basic iron and steel,C24A,full_available,4718.3954,observed,1.0068790304241158
 SAU,Saudi Arabia,2019,FABMET,Fabricated metal products,C25,full_available,8852.3359,observed,1.020543785342616
 SAU,Saudi Arabia,2021,COAL,Coal mining,B05,full_available,0.0,zero_output,
-SAU,Saudi Arabia,2021,OILGAS,Oil and gas extraction,B06,full_available,226520.6784,observed,1.035976025823658
-SAU,Saudi Arabia,2021,ORES,Metal ore mining,B07,full_available,1311.8133,observed,1.000935137721856
+SAU,Saudi Arabia,2021,OILGAS,Oil and gas extraction,B06,full_available,226520.6784,observed,1.0359760258236583
+SAU,Saudi Arabia,2021,ORES,Metal ore mining,B07,full_available,1311.8133,observed,1.0009351377218563
 SAU,Saudi Arabia,2021,COKE,Coke and refined petroleum products,C19,full_available,115914.621,observed,1.1409644157651884
 SAU,Saudi Arabia,2021,METAL,Basic iron and steel,C24A,full_available,4697.0727,observed,1.007264273282731
 SAU,Saudi Arabia,2021,FABMET,Fabricated metal products,C25,full_available,9073.1791,observed,1.0204132520931317
 SAU,Saudi Arabia,2022,COAL,Coal mining,B05,full_available,0.0,zero_output,
-SAU,Saudi Arabia,2022,OILGAS,Oil and gas extraction,B06,full_available,301279.476,observed,1.024409252125724
+SAU,Saudi Arabia,2022,OILGAS,Oil and gas extraction,B06,full_available,301279.476,observed,1.0244092521257238
 SAU,Saudi Arabia,2022,ORES,Metal ore mining,B07,full_available,1742.7086,observed,1.0040425194679392
 SAU,Saudi Arabia,2022,COKE,Coke and refined petroleum products,C19,full_available,157418.7961,observed,1.1169612070542618
 SAU,Saudi Arabia,2022,METAL,Basic iron and steel,C24A,full_available,6217.422,observed,1.1187423299500467
